@@ -1,0 +1,45 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: RGB(247, 202, 201);
+    color: white;
+    font-size: 30px;
+}
+.container {
+    margin-top: 5%;
+}
+
+
+a:link {
+    color: #181818;
+}
+
+a:visited {
+    color: #181818;
+}
+
+.evelina {
+    font-size: 40px;
+}
+
+.fotograf {
+    font-size: 25px;
+}
+.footer {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:RGB(247, 202, 201);
+    color: white;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+ 
